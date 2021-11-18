@@ -3,7 +3,7 @@
 }
 
 .card {
-    max-width:400px;
+    max-width:418px;
     margin-bottom: 25px;
 }
 
@@ -61,7 +61,7 @@
 
 
 .card__button {
-    width: 120px;
+    width: 110px;
     background-color: #fff;
     color: #4e79b9;
     border: 1px solid #4e79b9;
